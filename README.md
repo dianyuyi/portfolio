@@ -1,3 +1,3 @@
-# Cheng-Yi Lin : Calligraphy Artwork
+# Loxi portfolio
 
-> https://dianyuyi.github.io/lin_calligraphy/Home
+> https://dianyuyi.github.io/portfolio/Home
